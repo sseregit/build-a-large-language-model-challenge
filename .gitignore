@@ -1,0 +1,45 @@
+# === Google Colab & Jupyter ===
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.ipynb~*
+*.nbconvert/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+
+# === Colab temporary and runtime files ===
+/content/
+drive/
+sample_data/
+.env
+*.log
+*.tmp
+*.bak
+*.swp
+
+# === Python virtual environments ===
+.venv/
+venv/
+env/
+ENV/
+
+# === IDE settings ===
+.vscode/
+.idea/
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Miscellaneous ===
+*.tar
+*.zip
+*.gz
+*.h5
+*.ckpt
+*.pt
+*.pth
+*.onnx
